@@ -257,7 +257,7 @@
               figure
                 img.img-a.img-t(src="@/assets/curso/temas/25.png")           
             .col-lg-7
-              h5 Basado en proyectos
+              h5 Basado en la tecnología
               ul.lista-ul--color.mb-0
                 li.mb-3.d-flex
                   i.far.fa-arrow-alt-circle-right.color-2
